@@ -1,0 +1,1 @@
+time python enjoy.py --algo dqn --env PongNoFrameskip-v4 -f logs/ -n 5000
