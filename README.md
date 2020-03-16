@@ -46,3 +46,9 @@ utils/ rl-baseliens-zooから拝借
 
 # 実験内容
 DQNから順番に試していく
+
+# 実験時間
+
+1e7
+de
+で揃える
