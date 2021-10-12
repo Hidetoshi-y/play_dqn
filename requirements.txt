@@ -27,7 +27,7 @@ mock==3.0.5
 mpi4py==3.0.3
 msgfy==0.0.7
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 optuna==1.0.0
 pandas==0.25.3
 pathvalidate==2.0.1
